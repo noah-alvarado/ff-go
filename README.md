@@ -1,2 +1,2 @@
-# go-ff
+# ff-go
 fantasy football engine in Go
